@@ -30,6 +30,11 @@ The Cloud9 IDE team
 Visit http://docs.c9.io for support, or to learn more about using Cloud9 IDE. 
 To watch some training videos, visit http://www.youtube.com/user/c9ide
 
+
+## Motivation
+
+This is for exploring the possibilities of wordpress and double check if rebuilding a site for MakerWale is in deed necessary
+
 ## Archive entire site
 
 This is not only applicable to wordpress
